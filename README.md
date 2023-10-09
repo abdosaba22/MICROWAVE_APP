@@ -22,7 +22,7 @@ LIB:
 7- Bit math.
 
 # Notes:
- 1- Start button will not start if there is no food or door is not closed.
+ 1- Start button will not start if there is no food or the door is not closed.
 
  2- stop button stop the micro also can cancel the entered num before start to edit it.
 
