@@ -1,5 +1,5 @@
 # MICROWAVE_APP
-Microwave app with atmega32 (Swift Act)
+Microwave app using atmega32 (Swift Act)
 
 # SW Components:
 MCAL:
