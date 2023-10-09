@@ -3,6 +3,7 @@ Microwave app with atmega32 (Swift Act)
 
 # SW Components:
 MCAL:
+
 1- DIO driver.
 
 2- Timer driver. 
@@ -12,11 +13,13 @@ MCAL:
 4- GIE driver.
 
 HAL:
+
 4- Keypad driver. 
 
 5- LCD driver.
 
 LIB:
+
 6- Std types.
 
 7- Bit math.
